@@ -1,0 +1,46 @@
+@media (max-width: 980px) {
+    header {width: 100%;height: 100%;height: 100%}
+    .list {margin: .2em; }
+
+    header .sn-right ul li {margin: auto;}
+    header,.fixedpanel {padding: .6% 5%; }
+    header .sn-right,.fixedpanel .sn-right {right: 0; }
+    .fixedpanel .sn-right {width: 114%;right: -6%; }
+    .onglet {z-index: 9000;background-color: white;display: none;}
+    .onglet ul {display: block;padding: 5%; }
+    .menu-onglet {padding-right: 2%;position: absolute;right: 0;display: block;top: -39px;}
+    .menu-onglet nav {width: 30px;height: 2px;background-color: #c30047;border-radius: 10px;padding: 3px;margin: 3%; }
+    .fixedpanel .radbr{width: 34%!important;text-align: center!important; }
+    .fixedpanel .sn-right li {width: 100%;text-align: left;padding: 2% 4%;height: auto;}
+    .relativex {position: relative; }
+    .plusmoins {position: absolute;right: 12%;font-weight: bolder;display: inline;top: 11%; }
+    section .menu-li {opacity: 1!important;padding: 1%!important;position: relative!important;top: 0!important;box-shadow: none;display: none; }
+    .menu-li li {line-height: initial!important;}
+    .slideshow {height: 300px;}
+    .contains-slide { }
+    .contains-slide nav {position: unset;font-size: 18px;margin:0;width: 90%;}
+    .contains-slide nav p {font-size: 22px!important}
+    .contains-slide nav button { width: 67%}
+    .img img {width: 100%;}
+    .nav-text {padding: 0;margin: 0}
+    .slideshow-slide {margin:6%}
+    .under-middle-page {width: 100%;display: block;}
+    .under-middle-page .flexed-left {width:90%;}
+    .lg-sec .lg-sec-und div {display: block;text-align: center;margin: 15%;}
+    .phe-sec-div {display: block;width: 100%;}
+    .man-bg-under {left: 4%}
+    .sec-deux-image {height: 100%;}
+    .sec-deux-image div:first-child {display: block;}
+    .sec-deux-image div:first-child div:last-child {display: block;}
+    .sec-deux-image div:first-child div:last-child img {width: 100%;}
+    footer div:first-child {display: block;}
+    .under-footer div {text-align: center;}
+    .network {width: 100%;}
+    .bottom {width: 75%;margin: auto;}
+}
+@media (max-width: 549px) {
+    header {display: none!important;}
+
+
+
+}

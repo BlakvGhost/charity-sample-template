@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'brands';
+    src: url('../fonts/fa-brands-400.woff2');
+}
+@font-face {
+    font-family: 'solide';
+    src: url('../fonts/fa-solid-900.woff2');
+}
+.brands {font-family: brands; }
+.solid {font-family: solide }
